@@ -1,0 +1,33 @@
+navabr transparant stay
+product item: <navlink>deti<navlink>
+gambar product: onclick ke detail
+add to card -> detial, link ke detail
+
+product gamake banner 
+
+navbar product, dihover dropdown kategori(pupuk, )
+tampilin tiap kategori
+
+detail: nama,harga, deskripsi produk, kategori
+
+footer
+
+page: show more, page 1(6 item)
+
+footer: menu, 
+	social media(link ig, tokonya(tokepd, shopee)), 
+	alamat, 
+	kontak,
+	copyroght
+
+about: 
+	2 toko: foto, alamat, nama toko, kontak
+
+home: 
+	banner: hot porduct(pupuk, pot, tumbuhan)
+	cate
+
+
+flowcat:
+
+mingguan: mera
